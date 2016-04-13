@@ -9,6 +9,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
+:q1
 
 # Search String History (newest to oldest):
 
@@ -21,18 +22,42 @@
 # Registers:
 
 # File marks:
-'0  913  0  ~/.git/COMMIT_EDITMSG
-'1  2  0  ~/.git/COMMIT_EDITMSG
+'0  1  0  ~/anirudha-demo.txt
+'1  1  3  ~/.git/COMMIT_EDITMSG
+'2  1  0  ~/.gitconfig
+'3  913  0  ~/.git/COMMIT_EDITMSG
+'4  2  0  ~/.git/COMMIT_EDITMSG
 
 # Jumplist (newest first):
+-'  1  0  ~/anirudha-demo.txt
+-'  1  3  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.gitconfig
 -'  913  0  ~/.git/COMMIT_EDITMSG
 -'  2  0  ~/.git/COMMIT_EDITMSG
--'  1  0  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  3  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.gitconfig
+-'  913  0  ~/.git/COMMIT_EDITMSG
+-'  2  0  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
 
 # History of marks within files (newest to oldest):
 
+> ~/anirudha-demo.txt
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
 > ~/.git/COMMIT_EDITMSG
-	"	913	0
-	^	913	0
-	.	1	13
-	+	1	13
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/.gitconfig
+	"	1	0
